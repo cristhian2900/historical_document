@@ -1,5 +1,4 @@
-# historical_document
-Analyze historical documents
+## Deep Learning for Historical Document Analysis and Restoration.
 
 ## Key Features
 --------------
